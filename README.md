@@ -130,6 +130,7 @@ O planejamento evolutivo do projeto está organizado nas [Issues do repositório
   - [#7](https://github.com/Misians/Roboldo-Base/issues/7) Cliente da Loja no App Flutter
   - [#8](https://github.com/Misians/Roboldo-Base/issues/8) Refatoração do Game *Perguntas e Respostas* para o padrão do SDK
   - [#9](https://github.com/Misians/Roboldo-Base/issues/9) Novos Apps Core (Recepção/Boas-vindas, Controle Remoto e Telemetria)
+  - [#18](https://github.com/Misians/Roboldo-Base/issues/18) Normalização e Padronização dos Rostos e Expressões Faciais do Roboldo
 - **SLAM, Movimentação & Hardware**:
   - [#10](https://github.com/Misians/Roboldo-Base/issues/10) Arquitetura de Sensores e Pipeline de Mapeamento (LiDAR / Odometria / IMU)
   - [#11](https://github.com/Misians/Roboldo-Base/issues/11) Módulo de Mapeamento e Localização (Occupancy Grid / SLAM)
@@ -138,6 +139,7 @@ O planejamento evolutivo do projeto está organizado nas [Issues do repositório
   - [#14](https://github.com/Misians/Roboldo-Base/issues/14) Planejamento de Trajetória (*Path Planning*) e Desvio de Obstáculos
   - [#15](https://github.com/Misians/Roboldo-Base/issues/15) Sistema de Segurança Física, Parada de Emergência e Auto-Docking
   - [#16](https://github.com/Misians/Roboldo-Base/issues/16) Modelagem Elétrica, Dimensionamento de Energia e Diagrama de Ligações
+  - [#17](https://github.com/Misians/Roboldo-Base/issues/17) Integração e Mapeamento dos Sensores de Toque do Roboldo
 
 ---
 
