@@ -156,3 +156,9 @@ O planejamento evolutivo do projeto está organizado nas [Issues do repositório
 ## 🏛️ Créditos
 
 Projeto desenvolvido junto ao **Laboratório de Automação e Robótica (LAR)** — **Universidade do Estado do Rio Grande do Norte (UERN)**.
+
+---
+
+## 📄 Licença
+
+Este projeto é distribuído sob a licença **GNU General Public License v3.0 (GPL-3.0)**. Isso garante que o ecossistema do **Roboldo** e quaisquer trabalhos derivados permaneçam livres e de código aberto. Veja o arquivo [LICENSE](./LICENSE) para o texto completo.
