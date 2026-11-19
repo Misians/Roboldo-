@@ -131,6 +131,7 @@ O planejamento evolutivo do projeto está organizado nas [Issues do repositório
   - [#8](https://github.com/Misians/Roboldo-Base/issues/8) Refatoração do Game *Perguntas e Respostas* para o padrão do SDK
   - [#9](https://github.com/Misians/Roboldo-Base/issues/9) Novos Apps Core (Recepção/Boas-vindas, Controle Remoto e Telemetria)
   - [#18](https://github.com/Misians/Roboldo-Base/issues/18) Normalização e Padronização dos Rostos e Expressões Faciais do Roboldo
+  - [#19](https://github.com/Misians/Roboldo-Base/issues/19) Módulo de Conversação Natural com IA (STT + LLM + Piper TTS & Expressões)
 - **SLAM, Movimentação & Hardware**:
   - [#10](https://github.com/Misians/Roboldo-Base/issues/10) Arquitetura de Sensores e Pipeline de Mapeamento (LiDAR / Odometria / IMU)
   - [#11](https://github.com/Misians/Roboldo-Base/issues/11) Módulo de Mapeamento e Localização (Occupancy Grid / SLAM)
